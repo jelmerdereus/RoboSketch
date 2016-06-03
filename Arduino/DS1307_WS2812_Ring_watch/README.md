@@ -14,9 +14,9 @@ added soon
 
 ## Photos
 
-![WS2812B RGB LED watch](https://github.com/jelmerdereus/RoboSketch/Arduino/DS1307_WS2812_Ring_watch/photo2.JPG "red hours, blue minutes")
+![WS2812B RGB LED watch](https://github.com/jelmerdereus/RoboSketch/blob/master/Arduino/DS1307_WS2812_Ring_watch/photo2.JPG "red hours, blue minutes")
 
-![WS2812B RGB LED watch](https://github.com/jelmerdereus/RoboSketch/Arduino/DS1307_WS2812_Ring_watch/photo1.JPG "purple when overlapping")
+![WS2812B RGB LED watch](https://github.com/jelmerdereus/RoboSketch/blob/master/Arduino/DS1307_WS2812_Ring_watch/photo1.JPG "purple when overlapping")
 
 
 
